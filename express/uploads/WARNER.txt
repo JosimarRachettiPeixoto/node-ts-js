@@ -1,0 +1,1 @@
+NÃO EXCLUIR PASTA, aqui será armazenados os arquivos e pastas dos usuarios.
